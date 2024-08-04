@@ -1,7 +1,12 @@
 Practica vue3
 Nombres de intergrantes:
-- Joaquin Cruz Pizarro
-- Ariel Roymer Gabriel Ticona
+    - Joaquin Cruz Pizarro
+    - Ariel Roymer Gabriel Ticona
+
+Pasos para descargar el proyecto
+    1) git clone https://github.com/CPJoaquin/contactos.git
+    2) cd contactos
+
 Pasos para iniciar el proyecto
-1) npm install
-2) npm run serve
+    1) npm install
+    2) npm run serve
