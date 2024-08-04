@@ -1,0 +1,7 @@
+Practica vue3
+Nombres de intergrantes:
+- Joaquin Cruz Pizarro
+- Ariel Roymer Gabriel Ticona
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve
